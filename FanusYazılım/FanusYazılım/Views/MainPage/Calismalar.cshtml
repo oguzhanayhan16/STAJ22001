@@ -1,0 +1,102 @@
+﻿<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 3 eşit sütun */
+        gap: 10px; /* Sütunlar arasında boşluk */
+    }
+
+        .grid-container div {
+            padding: 20px;
+            text-align: center;
+        }
+
+    .button-container {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .load-more-button {
+        background-color: #808080; /* Arkaplan rengi */
+        color: white; /* Yazı rengi */
+        padding: 10px 20px; /* Yatay ve dikey iç boşluk */
+        border: none; /* Kenarlık yok */
+        border-radius: 5px; /* Köşe yuvarlama */
+        cursor: pointer; /* İmleç stilini değiştir */
+        font-size: 16px; /* Yazı boyutu */
+        transition: background-color 0.3s ease; /* Geçiş efekti */
+    }
+
+        .load-more-button:hover {
+            background-color: #C0C0C0; /* Hover durumunda yeni arkaplan rengi */
+        }
+
+</style>
+
+
+
+
+<div id="popular" >
+    <div id="calisma">
+
+        <div style="color:#E0E0E0;padding:20px;opacity: 1; position: relative;">
+            <h1 style="text-align:center">Çalışmalar</h1>
+            <div class="grid-container">
+                <div>
+                    <h3>HİKAYECİ</h3>
+                    <p>Hikayeci, kullanıcının isteği doğrultusunda çeşitli konularda hikayeler oluşturabilen ve sonuçları çıktı olarak sunabilen bir yapay zeka destekli cihazdır. Kullanıcılar, Hikayeci'ye istedikleri hikaye türünü belirtebilir.</p>
+                </div>
+                <div>
+                    <h3>İMAR VE ŞEHİRÇİLK</h3>
+                    <p>İmar ve şehircilik uygulaması, şehirlerin planlama ve yapılaşma süreçlerini yöneten bir sistemdir, şehirlerin düzenli ve sürdürülebilir bir şekilde gelişmesine katkı sağlar.</p>
+                </div>
+                <div>
+                    <h3>MÜZE VE ART</h3>
+                    <p>Müzeler ve sanat, kültürel mirası sergileyerek ilham verir ve yeni düşüncelerin gelişmesine katkı sağlar. Bu alanlar, estetik deneyimlerin paylaşıldığı ve toplumun kültürel zenginliğinin artmasında önemli platformlardır.</p>
+                </div>
+                <div>
+                    <h3>OYUN PROGRAMLAMA</h3>
+                    <p>Oyunların yaratılması ve geliştirilmesi için kullanılan bir süreçtir. Bu süreçte, kodlama ve tasarım becerileri kullanılarak interaktif ve eğlenceli oyunlar oluşturulur.</p>
+                </div>
+                <div>
+                    <h3>ROBOTİK KODLAMA</h3>
+                    <p>Robotların hareket etmesi, görevleri yerine getirmesi ve etkileşimde bulunması için programların oluşturulmasıdır. Bu süreçte, öğrenciler ve meraklılar, programlama dilleri kullanarak robotlara talimatlar verir ve temel mantık becerilerini geliştirir.</p>
+                </div>
+                <div>
+                    <h3>
+                        SOSYAL MEDYA
+                    </h3>
+                    <p>Markaların veya bireylerin sosyal medya platformlarında varlık göstermek, içerik paylaşmak, etkileşim sağlamak ve takipçi kitlesini büyütmek için stratejiler oluşturması ve uygulamasını içerir. İçerik paylaşımı ve bilgi alışverişi gibi amaçlarla dijital platformlarda etkileşimde bulunmalarını sağlamak için Fanus Yazılım ekibi ile çalışıyoruz.</p>
+                </div>
+            </div>
+
+
+            <div class="button-container" style="text-align:center;padding:20px">
+                <button onclick="loadMoreMovies()" class="load-more-button">
+                    Daha Fazla Yükle
+                </button>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function loadMoreMovies() {
+        $.ajax({
+            url: '@Url.Action("GetAllItems", "MainPage")',
+            type: 'GET',
+            success: function (response) {
+                $('#popular').html(response);
+
+            },
+            error: function (xhr, status, error) {
+                console.log('Yükleme hatası: ' + error);
+            }
+        });
+    }
+</script>
+
+
+
+

@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\shared\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\shared\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\icerikvekullanicilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\icerikvekullanicilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\yorumlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\yorumlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\robotik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\robotik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\oyunprogramlama.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\oyunprogramlama.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\zamanmakinas\u0131.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\zamanmakinas\u0131.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\mainpage\\calismalar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\mainpage\\calismalar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|c:\\users\\oziay\\desktop\\c#\\fanusyaz\u0131l\u0131m\\fanusyaz\u0131l\u0131m\\views\\shared\\top.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F81B0516-46FB-4BFF-9E25-6A3C9D4A03E9}|FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m.csproj|solutionrelative:fanusyaz\u0131l\u0131m\\views\\shared\\top.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Index.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T11:57:03.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Navbar.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Navbar.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:50:45.137Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Top.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Top.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Top.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Top.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Top.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T12:50:07.038Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\Shared\\Iletisim.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\Shared\\Iletisim.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T08:05:03.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yorumlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Yorumlar.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Yorumlar.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Yorumlar.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Yorumlar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:56:06.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Robotik.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Robotik.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Robotik.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Robotik.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Robotik.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:55:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OyunProgramlama.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\OyunProgramlama.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\OyunProgramlama.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\OyunProgramlama.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\OyunProgramlama.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:55:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SosyalMedya.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\SosyalMedya.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\SosyalMedya.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\SosyalMedya.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\SosyalMedya.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:54:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZamanMakinas\u0131.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\ZamanMakinas\u0131.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\ZamanMakinas\u0131.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\ZamanMakinas\u0131.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\ZamanMakinas\u0131.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:53:45.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IcerikveKullanicilar.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\IcerikveKullanicilar.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\IcerikveKullanicilar.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\IcerikveKullanicilar.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\IcerikveKullanicilar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T08:56:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calismalar.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Calismalar.cshtml",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Calismalar.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Views\\MainPage\\Calismalar.cshtml",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Views\\MainPage\\Calismalar.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T12:55:24.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPageController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Controllers\\MainPageController.cs",
+              "RelativeDocumentMoniker": "FanusYaz\u0131l\u0131m\\Controllers\\MainPageController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\c#\\FanusYaz\u0131l\u0131m\\FanusYaz\u0131l\u0131m\\Controllers\\MainPageController.cs",
+              "RelativeToolTip": "FanusYaz\u0131l\u0131m\\Controllers\\MainPageController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:31:44.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@model MovieListModel
+@{
+    ViewData["Title"] = "WatchedPage";
+    Layout = "~/Views/Shared/LogPage.cshtml";
+}
+
+
+
+<div class="film">
+    <div class="movie-list-wrapper">
+        <div class="movie-list">
+            @if (Model.collec != null && Model.Movies != null)
+            {
+                var moviesInCollection = Model.collec.Select(c => c.MovieID).ToList();
+
+                foreach (var movie in Model.Movies.Where(m => moviesInCollection.Contains(m.MovieID)))
+                {
+
+                    <div style="padding:100px">
+                        <div class="movie-list-item " values="@movie.MovieID">
+                            <a href="/WatchMovie/Index?UserID=@Model.userID&MovieID=@movie.MovieID">
+                                <img class="movie-list-item-img" src="@movie.Image">
+                                <p class="movie-list-item-title">@movie.Name</p>
+                            </a>
+                        </div>
+
+                    </div>
+                }
+            }
+            else
+            {
+                <p>Film veya koleksiyon bulunamadı.</p>
+            }
+        </div>
+    </div>
+</div>

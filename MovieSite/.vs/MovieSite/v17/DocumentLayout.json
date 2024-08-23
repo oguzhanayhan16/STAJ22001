@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oziay\\Desktop\\MovieSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\models\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\models\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\controllers\\admincommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\controllers\\admincommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\views\\admin\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\views\\admin\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\controllers\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\controllers\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|c:\\users\\oziay\\desktop\\moviesite\\moviesite\\areas\\admin\\views\\adminmovie\\movieviewpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC36363-FB14-4CBC-B1BD-0A799B3AA230}|MovieSite\\MovieSite.csproj|solutionrelative:moviesite\\areas\\admin\\views\\adminmovie\\movieviewpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Views\\Admin\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "MovieSite\\Views\\Admin\\Navbar.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Views\\Admin\\Navbar.cshtml",
+              "RelativeToolTip": "MovieSite\\Views\\Admin\\Navbar.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:31:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MovieSite\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "MovieSite\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:30:58.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Views\\Client\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:24:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:54:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieViewPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Views\\AdminMovie\\MovieViewPage.cshtml",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Views\\AdminMovie\\MovieViewPage.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Views\\AdminMovie\\MovieViewPage.cshtml",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Views\\AdminMovie\\MovieViewPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:22:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\AdminMovieController.cs",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Controllers\\AdminMovieController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\AdminMovieController.cs",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Controllers\\AdminMovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:18:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminCommentController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\AdminCommentController.cs",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Controllers\\AdminCommentController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Controllers\\AdminCommentController.cs",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Controllers\\AdminCommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:11:52.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Models\\CommentViewModel.cs",
+              "RelativeDocumentMoniker": "MovieSite\\Areas\\Admin\\Models\\CommentViewModel.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\MovieSite\\MovieSite\\Areas\\Admin\\Models\\CommentViewModel.cs",
+              "RelativeToolTip": "MovieSite\\Areas\\Admin\\Models\\CommentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:11:46.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
